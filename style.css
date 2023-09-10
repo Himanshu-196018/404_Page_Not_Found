@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Ubuntu&family=Space+Mono&display=swap');
 * {
     box-sizing: border-box;
     margin: 0;
@@ -6,20 +6,20 @@
 }
 body {
     width: 100%;
-    padding: 40px 50px 0;
+    font-family: Ubuntu,"Space Mono", monospace;
 }
 
 #head {
-    font-family: Inconsolata;
+    margin: 30px 0 0 40px;
     font-weight: 700;
     font-size: 1.6em;
-    letter-spacing: -1px;
+    letter-spacing: -2px;
     color: #333333; 
     
 }
 
 .content {
-    margin-top: 130px;
+    margin-top: 100px;
     max-width: 100%;
     display: flex;
     flex-direction: column;
@@ -28,39 +28,39 @@ body {
 
 img {
     max-width: 540px;
-    cover
 }
 
 .column {
-    max-width: 100%;
+    margin-left: 30px;
+    max-width: 90%;
     display: flex;
     flex-direction: column;
-    gap: 60px;
 }
 
 #notify {
-    margin-top: 40px;
-    max-width: 90%;
-    font-family: monospace;
-    font-size: 4.5em;
-    line-height: 1.4em;
+    margin-top: 50px;
+    font-family: Inconsolata;
+    max-width: 100%;
+    font-size: 3.5em;
+    line-height: 1.5;
     weight: 700;
     color: #333333;
 }
 
 .msg {
-    max-width: 80%;
-    font-family: monospace;
-    font-size: 1.5em;
+    margin-top: 30px;
+    max-width: 100%;
+    font-size: 1.6em;
+    line-height: 1.7;
     font-weight: 400;
-    line-height: 35px;
     color: #4f4f4f;
 }
 
 #home-btn {
-    padding: 20px 0;
+    margin-top: 70px;
+    padding: 24px 0;
     width: 216px;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700px;
     text-align: center;
     color: #ffffff;
@@ -74,7 +74,7 @@ img {
 }
 
 .foot {
-    margin-top: 200px;
+    margin-top: 150px;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -82,11 +82,9 @@ img {
 
 .coder {
     padding: 20px 0;
-    font-family: Inconsolata;
     font-weight: 400;
-    display: inline-block;
     color: #BDBDBD;
-    font-size: 1em;
+    font-size: 15px;
 }
 .coder a {
     font-weight: 700;
@@ -101,12 +99,16 @@ img {
         justify-content: space-around;
         column-gap: 10%;
     }
+    img {
+        margin-left: 50px;
+    }
     #notify {
-        max-width: 90%;
-        font-size: 5.5em;
+        max-width: 586px;
+        font-size: 4.5em;
     }
     .msg {
-        max-width: 70%;
-        font-size: 2em;
+        max-width: 381px;
+        font-size: 1.7em;
+        letter-spacing: 1px;
     }
 }
