@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">404 NOT FOUND</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://https://himanshu-196018.github.io/404_Page_Not_Found/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://himanshu-196018.github.io/404_Page_Not_Found/">
       Solution
     </a>
     <span> | </span>
@@ -27,7 +27,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -36,22 +36,23 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](/deployedPage.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+The project is a Web Development Challenge from <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+I have completed the challenge and successfully deployed the project on my github profile <a href="http://himanshu-196018.github.io" target="_blank">@Himanshu_196018</a>.
+You can see the deployed site <a href="" target="_blank">here</a>
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- This was my first challenge at Devchallenges.io and it was a brilliant experiance for me as I am starting my carrer as a Web Developer. I will try to solve more challenges provided by Devchallenges.io in the future. It is fun to see your own creation live in action.
+
+- I have improved my basic skills for styling responsive web page by building this project. I have also learned responsive image styling which make page look more attractive. I came to know that it is easier to style phone design first then design for bigger window or screen. 
+
+- I want to tell all my fellow developers that keep practicing, keep upgrading your skills and take some challenge to improve your basics too. If your basics are strong then there will be less hurdle in your way for becoming a web developer.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML]
+- [CSS]
 
 ## Features
 
@@ -70,6 +71,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [my-website.com](https://{your-web-site-link})
+- GitHub [@Himanshu_196018](https://himanshu-196018.github.io/)
