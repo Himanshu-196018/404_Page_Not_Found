@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://himanshu-196018.github.io/404_Page_Not_Found/">
+    <a href="https://github.com/Himanshu-196018/404_Page_Not_Found">
       Solution
     </a>
     <span> | </span>
