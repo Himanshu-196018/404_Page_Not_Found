@@ -72,4 +72,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [my-website.com](https://{your-web-site-link})
-- GitHub [@Himanshu_196018](https://himanshu-196018.github.io/)
+- GitHub [@Himanshu_2301](https://github.com/Himanshu_196018)
+- LinkedIn [@Himanshu](https://www.linkedin.com/in/himanshu-kumar-2b7993167)
